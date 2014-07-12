@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - '0.10'
+before_install:
+  - currentfolder=${PWD##*/}
+  - if [ "$currentfolder" != 'generator-sf-module' ]; then cd .. && eval "mv $currentfolder generator-sf-module" && cd generator-sf-module; fi
+

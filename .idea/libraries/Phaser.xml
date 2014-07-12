@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="Phaser" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Bibliotek/phaser/build/phaser.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
